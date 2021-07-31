@@ -22,7 +22,7 @@ Prof.: Vanessa Jansen
 
 - Criado um banco de dados Travel e uma collections Agendamentos:
 
-![image-20210730210311594](C:\Users\Paula\AppData\Roaming\Typora\typora-user-images\image-20210730210311594.png)
+![image-20210730210311594](https://github.com/anapsantos1/Proj_on13_MONGODB/blob/main/imagens/ScreenHunter%2069.png)
 
 - Efetuada a inserção dos dados:
 
